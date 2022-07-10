@@ -1,1 +1,5 @@
+<script>
 console.log("Hola Mundo");
+var a = 0;
+console.log(a);
+</script>
